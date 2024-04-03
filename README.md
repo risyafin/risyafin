@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samsul Arifin</h1>
-<h3 align="center">Software (Backend) Engineer</h3>
+<h1>Hi 👋, I'm Samsul Arifin</h1>
+<h3>Software (Backend) Engineer</h3>
 
 - 🌱 I’m currently learning **Microservices, Payment Gatway**
 
